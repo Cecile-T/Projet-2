@@ -52,9 +52,9 @@ Les fichiers du thème de base ne sont pas altérés
 Adapter l'affichage en fonction de la taille de l'écran
 1. Le viewport est configuré dans l'en-tête de la page HTML
 2. (Au moins) Un breakpoint pertinent est défini
-Une grille (avec ou sans Framework de type Bootsrap) et/ou des Media Queries sont utilisés 
-Le contenu s'affiche sur une seule colonne en mobilité et occupe intelligemment l'espace sur un grand écran
-Les marges/padding sont adaptés
+3. Une grille (avec ou sans Framework de type Bootsrap) et/ou des Media Queries sont utilisés 
+4. Le contenu s'affiche sur une seule colonne en mobilité et occupe intelligemment l'espace sur un grand écran
+5. Les marges/padding sont adaptés
 
 Appliquer les principes de SEO dans le code HTML
 1. Un plugin de référencement (type Yoast SEO) est installé dans Wordpress
@@ -68,9 +68,9 @@ Présenter une réalisation de manière professionnelle
 4. Le temps de présentation est respecté (20 minutes +/- 5 minutes)
 
 Compétences à valider
-1. Appliquer les principes de SEO dans le code HTML
-2. Assurer la cohérence graphique du site
-3. Assurer l'accessibilité du site aux différents types d'utilisateurs
-4. Présenter une réalisation de manière professionnelle
-5. Adapter l'affichage en fonction de la taille de l'écran
-6. Définir la structure de navigation du site
+Appliquer les principes de SEO dans le code HTML
+Assurer la cohérence graphique du site
+Assurer l'accessibilité du site aux différents types d'utilisateurs
+Présenter une réalisation de manière professionnelle
+Adapter l'affichage en fonction de la taille de l'écran
+Définir la structure de navigation du site
