@@ -67,10 +67,10 @@ Présenter une réalisation de manière professionnelle
 3. La tenue et l'attitude sont appropriés
 4. Le temps de présentation est respecté (20 minutes +/- 5 minutes)
 
-Compétences à valider
-Appliquer les principes de SEO dans le code HTML
-Assurer la cohérence graphique du site
-Assurer l'accessibilité du site aux différents types d'utilisateurs
-Présenter une réalisation de manière professionnelle
-Adapter l'affichage en fonction de la taille de l'écran
-Définir la structure de navigation du site
+Compétences à valider :
+- Appliquer les principes de SEO dans le code HTML
+- Assurer la cohérence graphique du site
+- Assurer l'accessibilité du site aux différents types d'utilisateurs
+- Présenter une réalisation de manière professionnelle
+- Adapter l'affichage en fonction de la taille de l'écran
+- Définir la structure de navigation du site
