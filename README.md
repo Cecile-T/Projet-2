@@ -1,4 +1,4 @@
-# Projet 2: Créez un site en personnalisant un thème WordPress
+# Projet 2: Créer un site en personnalisant un thème WordPress
 
 [Lien du site](http://wordpress.cecile-thienard.fr/) 
 
