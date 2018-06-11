@@ -48,9 +48,9 @@ Référentiel d'évaluation
 3. Le site est fonctionnel même si JavaScript est désactivé
 
 **Assurer la cohérence graphique du site**
-Les différentes pages du site sont cohérentes visuellement
-Des classes CSS pertinentes sont définies et utilisées
-Les fichiers du thème de base ne sont pas altérés
+1. Les différentes pages du site sont cohérentes visuellement
+2. Des classes CSS pertinentes sont définies et utilisées
+3. Les fichiers du thème de base ne sont pas altérés
 
 **Adapter l'affichage en fonction de la taille de l'écran**
 1. Le viewport est configuré dans l'en-tête de la page HTML
