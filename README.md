@@ -1,7 +1,5 @@
 # Projet 2: Créer un site en personnalisant un thème WordPress
 
-[Lien du site](http://wordpress.cecile-thienard.fr/) 
-
 [Descriptif du projet à réaliser](https://openclassrooms.com/fr/projects/creez-un-site-en-personnalisant-un-theme-wordpress) 
 
 Vous avez un client : l'office du tourisme de la ville de Strasbourg. Ils souhaitent un site web à l'image de la ville pour attirer des touristes et informer sur les activités proposées.
